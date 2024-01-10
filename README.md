@@ -13,7 +13,7 @@ Owshen is an innovative privacy platform developed for EVM-based blockchains. He
 ধাপ-১: আপনার Ubuntu Terminal চালু করুনঃ
 
 ধাপ-২: Owshen Wallet এর সর্বশেষ AppImage ডাউনলোড করুনঃ
-bash```wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.1.0_x86_64.AppImage```
+```bash```wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.1.0_x86_64.AppImage```
 
 ধাপ-৩: এখন উপরের কমান্ডটি কার্যকর করতে নিচের কমান্ডি দিনঃ
 
