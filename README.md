@@ -13,20 +13,19 @@ Owshen is an innovative privacy platform developed for EVM-based blockchains. He
 ধাপ-১: আপনার Ubuntu Terminal চালু করুনঃ
 
 ধাপ-২: Owshen Wallet এর সর্বশেষ AppImage ডাউনলোড করুনঃ
-```bash
-wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.1.0_x86_64.AppImage
+```bash wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.1.0_x86_64.AppImage```
 
 ধাপ-৩: এখন উপরের কমান্ডটি কার্যকর করতে নিচের কমান্ডি দিনঃ
 
-```chmod +x Owshen_v0.1.0_x86_64.AppImage```
+```bash chmod +x Owshen_v0.1.0_x86_64.AppImage```
 
 ধাপ-৪: আপনার Wallet ক্রিয়েট করার জন্য নিচের কমান্ডটি দিন এবং ওয়ালেট ক্রিয়েট হলে আপনার ১২-শব্দের Seed Phrase-টি নিরাপদ জায়গায় সংরক্ষণ করুণ।
 
-```./Owshen_v0.1.0_x86_64.AppImage init```
+```bash./Owshen_v0.1.0_x86_64.AppImage init```
 
 ধাপ-৫: Owshen Wallet চালু করতে নিচের কমান্ডটি দিয়ে আপনার ব্রাউসার থেকে [http://127.0.0.1:9000] এই লোকেশনে নেভিগেট করুন।
 
-```./Owshen_v0.1.0_x86_64.AppImage wallet```
+```bash./Owshen_v0.1.0_x86_64.AppImage wallet```
 
 আপনি এখানে আপনার ওয়ালেট এড্রেস পাবেন
 
